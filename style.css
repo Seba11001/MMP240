@@ -66,6 +66,12 @@ background-color: #7b7e84;
 	max-height: 100%;
 	margin:0 auto;
 	}
+.rt-responsive{ 
+	max-width:100%; 
+	height: auto;
+	float: right;
+	margin:0 0 25px 25px;
+	}
 audio{
  	width:100%;
 }
@@ -90,8 +96,8 @@ audio{
 	
 }
 body{
-	margin: 80px 15% 50px 15%;
-	background-color: #444951;
+	margin: 80px 15% 115%;
+	background-color: #262728;
 	font-family: 'Pathway Gothic One', sans-serif;	
 	color:#d0d7e2;
 	}
@@ -101,5 +107,5 @@ h2{
 	margin-bottom: 0;
 	}
 p{
-	text-align: justify;
+	text-align: left;
 	}
