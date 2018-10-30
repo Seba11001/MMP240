@@ -36,10 +36,6 @@ color:#ffffff;
 background-color: #7b7e84;
 }
 
-.nav-container a:visited{ 
-background-color: #7b7e84; 
-}
-
 .mybanner{ 
 	max-width:100%; 
 	max-height: auto;
@@ -75,10 +71,12 @@ background-color: #7b7e84;
 audio{
  	width:100%;
 }
-
+header{
+    width:100%
+}
 
 body{
-	margin: 80px 15% 115%;
+	margin: 70px 10% 115%;
 	background-color: #262728;
 	font-family: 'Pathway Gothic One', sans-serif;	
 	color:#d0d7e2;
@@ -89,7 +87,7 @@ h2{
 	margin-bottom: 0;
 	}
 p{
-	text-align: left;
+    text-align: left;
 	}
 * {box-sizing:border-box}
 
